@@ -1,3 +1,3 @@
 # safe?
-Yes Is Safe
+Yes Is Safe/n
 sudo apt install opsec
