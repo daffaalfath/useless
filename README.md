@@ -1,2 +1,3 @@
 # useless
-my useless project
+my useless projects
+PROJECTS NOT PROJECT
