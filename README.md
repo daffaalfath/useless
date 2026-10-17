@@ -1,0 +1,2 @@
+# useless
+my useless project
