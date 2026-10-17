@@ -1,3 +1,3 @@
-# useless
-my useless projects
-PROJECTS NOT PROJECT
+# safe?
+Yes Is Safe
+sudo apt install opsec
